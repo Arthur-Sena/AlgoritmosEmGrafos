@@ -2,6 +2,11 @@
 
 Este curso aborda conceitos fundamentais e algoritmos essenciais relacionados à teoria dos grafos, focando em diferentes formas de representação e busca em grafos. Abaixo estão os tópicos já discutidos:
 
+## Índice 
+* [1. O que é um grafo?](#1-o-que-é-um-grafo)
+* [2. Busca em Largura (BFS)](#2-busca-em-largura-bfs)
+* [3. Busca em Profundidade (DFS)](#3-busca-em-profundidade-dfs)
+
 ## 1. O que é um grafo?
 Um grafo é uma estrutura matemática composta por um conjunto de vértices (ou nós) e um conjunto de arestas que conectam pares de vértices. Formalmente, um grafo 𝐺
 G é definido como 𝐺 =(𝑉,𝐸), onde 𝑉 é o conjunto de vértices e 𝐸 o conjunto de arestas, que podem ou não ser direcionadas. Além disso, existem diferentes tipos de grafos, como:
